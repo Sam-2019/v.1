@@ -3,9 +3,9 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Carousel from 'react-bootstrap/Carousel';
-import polltwo from './images/polltwo.jpg';
-import pollthree from './images/pollthree.jpg';
-import pollfour from './images/pollfour.jpg';
+import polltwo from './polltwo.jpg';
+import pollthree from './pollthree.jpg';
+import pollfour from './pollfour.jpg';
 
 
 class Main extends Component {
