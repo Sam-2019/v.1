@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Routeall from './Component/Routeall';
+import Routeall from './Routeall';
 
 
 
